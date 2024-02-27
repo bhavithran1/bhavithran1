@@ -11,19 +11,21 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 17 years  old Machine Learning Enthusiast and Front-End Developer from Malaysia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/train.jpg">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Reinforcement Learnning
+- ✨ Supervised & Unsupervised Learing
+- ✨ Front-End Development with ReactJS
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Listening To Songs
+- ✨ Badminton 
 
 </br>
 </br>

@@ -53,19 +53,19 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:bhaviszsz@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+<a href="https://www.linkedin.com/in/bhavithran-ananthan-0207542ab/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
+<a href="https://www.reddit.com/user/Zalkwalker/">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
+<a href="https://steamcommunity.com/profiles/76561198800501618/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>

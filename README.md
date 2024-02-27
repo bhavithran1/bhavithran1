@@ -1,32 +1,64 @@
-<h1 align="center">Hi 👋, I'm Zalkwaker</h1>
-<h3 align="center">A passionate frontend developer and machine learning student from Malaysia</h3>
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavithran1&label=Profile%20views&color=0e75b6&style=flat" alt="bhavithran1" /> </p>
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavithran1" alt="bhavithran1" /></a> </p>
+<img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
+I'm Kelechi, a Project Manager with Finance background & love for anything Tech. Python is my first language, exploring the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
 
-- 🔭 I’m currently working on **digital product websites with reactjs**
 
-- 🌱 I’m currently learning **react and tensorflow**
+## More About Me:woman:
 
-- 💬 Ask me about **machine learning,reinforcement learning and react**
+:purple_heart: Kind people are my kinda people
 
-- 📫 How to reach me **bhaviszsz@gmail.com**
+:100: Radical for Jesus
 
-- ⚡ Fun fact **I think I am funny and very easy and fun to work in a team**
+:star: Uniquely naive tho independent
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/bhavithran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhavithran" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhavithran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavithran" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhaviszsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaviszsz" height="30" width="40" /></a>
+:apple: Beginner mindset (**open to learning**)
+
+:sparkles: Child at heart (**i see the world as magical**)
+
+
+>*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
+
+
+## Find me around the WWW🌎
+
+<p align="center">
+  
+  
+- Contributing on: <a href="https://github.com/PluckyPreciou?tab=followers">
+    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
+
+- Trying to be up to good on: <a href="http://twitter.com/PluckyPrecious">
+    <img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+
+
+- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavithran1&show_icons=true&locale=en&layout=compact" alt="bhavithran1" /></p>
+## Latest Blog Posts📩
+<!-- BLOG-POST-LIST:START -->
+- [Don’t Stop Until You’re Proud](https://predigt.dev/iwd-dont-stop-until-youre-proud)
+- [Predictive Model: My First Tech Task](https://predigt.dev/predictive-model-my-first-tech-task)
+- [A Rookie In Python But Loving It](https://predigt.dev/a-rookie-in-python-but-loving-it)
+- [Difficulties In My Tech Journey: A Survival Guide](https://predigt.dev/difficulties-in-my-tech-journey-a-survival-guide)
+- [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
+<!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavithran1&show_icons=true&locale=en" alt="bhavithran1" /></p>
+## <h3 align="left">GitHub Stats</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavithran1&" alt="bhavithran1" /></p>
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PluckyPrecious&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)

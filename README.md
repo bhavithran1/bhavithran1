@@ -51,7 +51,7 @@
 <img hight="320" width="450" align="right" alt="JPG" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/flowers.jpg">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Feel free to reach out—I’d love to connect! 😊
 
 <a href="mailto:bhaviszsz@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/gmail.png" />

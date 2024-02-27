@@ -13,7 +13,7 @@
 
 ### - I'm 17 years  old Machine Learning Enthusiast and Front-End Developer from Malaysia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/train.jpg">
+<img hight="400" width="500" alt="JPG" align="right" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/train.jpg">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -47,7 +47,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="JPG" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/flowers.jpg">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.

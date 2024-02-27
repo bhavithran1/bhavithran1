@@ -1,64 +1,104 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+# Konichiwa 👋
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
-<img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
-I'm Kelechi, a Project Manager with Finance background & love for anything Tech. Python is my first language, exploring the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
-
-
-## More About Me:woman:
-
-:purple_heart: Kind people are my kinda people
-
-:100: Radical for Jesus
-
-:star: Uniquely naive tho independent
-
-:apple: Beginner mindset (**open to learning**)
-
-:sparkles: Child at heart (**i see the world as magical**)
+</br>
+</br>
+</br>
 
 
->*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
+# About ME 💬 :
+
+### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
 
 
-## Find me around the WWW🌎
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
 <p align="center">
-  
-  
-- Contributing on: <a href="https://github.com/PluckyPreciou?tab=followers">
-    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
 
-
-- Trying to be up to good on: <a href="http://twitter.com/PluckyPrecious">
-    <img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-
-
-- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
-
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
+</br>
+</br>
+</br>
 
 
-## Latest Blog Posts📩
-<!-- BLOG-POST-LIST:START -->
-- [Don’t Stop Until You’re Proud](https://predigt.dev/iwd-dont-stop-until-youre-proud)
-- [Predictive Model: My First Tech Task](https://predigt.dev/predictive-model-my-first-tech-task)
-- [A Rookie In Python But Loving It](https://predigt.dev/a-rookie-in-python-but-loving-it)
-- [Difficulties In My Tech Journey: A Survival Guide](https://predigt.dev/difficulties-in-my-tech-journey-a-survival-guide)
-- [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
-<!-- BLOG-POST-LIST:END -->
 
-## <h3 align="left">GitHub Stats</h3>
+# Contact Me :
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PluckyPrecious&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-  
-## 🏆 GitHub Trophies
+<p>
+ </br>
 
-![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
